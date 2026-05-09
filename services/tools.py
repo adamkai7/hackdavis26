@@ -1,7 +1,10 @@
 # services/tools.py
 from typing import TypedDict
 from supabase import Client
-
+import asyncio
+import os
+from typing import Optional
+import httpx
 
 
 # Federal Poverty Level + median-income lookup
@@ -123,4 +126,3 @@ async def register_new_user(
         "fpl_ratio": round(tier["fpl_ratio"], 2),
         "registered": True,
     }
-
