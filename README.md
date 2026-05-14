@@ -2,7 +2,7 @@
 
 A multilingual AI voice platform connecting surplus food from restaurants 
 and grocery stores to verified food shelters and community members in need.
-Built at HackDavis 2026 in 24 hours.
+Built at HackDavis 2026 in 24 hours. Our number is (984) 302-3261.
 
 ## The Problem
 
